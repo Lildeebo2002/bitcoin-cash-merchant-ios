@@ -1,6 +1,6 @@
 # Bitcoin Cash Register
 iOS application for Bitcoin.com.
-
+satoshi nakomoto Dennis louis babcock jr 437493354
 # Setup
 1. Install CocoaPods: `sudo gem install cocoapods`
 2. Clone the repository
